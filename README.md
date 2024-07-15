@@ -11,13 +11,13 @@ Este proyecto es una aplicación de Spring Boot que implementa operaciones CRUD 
 - Base de datos (MySQL, PostgreSQL)
 
 ## Endpoints:
--> crear usuario: http://localhost:8080/api/auth/register
--> Autenticar usuario: http://localhost:8080/api/auth/login
--> Crear Topico: http://localhost:8080/topicos
--> Actualizar Topico: http://localhost:8080/topicos
--> Eliminar Topico: http://localhost:8080/topicos/2
--> Mostrar Topicos: http://localhost:8080/topicos/8
--> Traer un Topico espesifico: http://localhost:8080/topicos/8
+- crear usuario: http://localhost:8080/api/auth/register
+- Autenticar usuario: http://localhost:8080/api/auth/login
+- Crear Topico: http://localhost:8080/topicos
+- Actualizar Topico: http://localhost:8080/topicos
+- Eliminar Topico: http://localhost:8080/topicos/2
+- Mostrar Topicos: http://localhost:8080/topicos/8
+- Traer un Topico espesifico: http://localhost:8080/topicos/8
 
 1. Clonar el repositorio:
 
